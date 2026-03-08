@@ -1,2 +1,1 @@
-# Resume-Project-Using-HTML 
-Creating resume using basic tools and commands of HTML.
+A Resume Project using HTML is a basic web development project where a resume is created as a webpage. It helps beginners learn the structure of web pages using HTML tags. The resume includes sections like personal information, education, skills, and projects. This project helps students practice HTML and present information clearly on a webpage.
